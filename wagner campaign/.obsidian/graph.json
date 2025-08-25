@@ -1,0 +1,51 @@
+{
+  "collapse-filter": true,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": true,
+  "colorGroups": [
+    {
+      "query": "file:Overview",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
+      }
+    },
+    {
+      "query": "content:\"[[material plane]]\"",
+      "color": {
+        "a": 1,
+        "rgb": 1220918
+      }
+    },
+    {
+      "query": "content:\"[[Overview]]\"",
+      "color": {
+        "a": 1,
+        "rgb": 11355338
+      }
+    },
+    {
+      "query": "path:\"__ Cryptic notes\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 14701199
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": false,
+  "centerStrength": 0.372395833333333,
+  "repelStrength": 20,
+  "linkStrength": 1,
+  "linkDistance": 239,
+  "scale": 0.1316872427983547,
+  "close": true
+}

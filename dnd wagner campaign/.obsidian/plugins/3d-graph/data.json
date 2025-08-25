@@ -1,0 +1,60 @@
+{
+  "filters": {
+    "doShowOrphans": true,
+    "doShowAttachments": true
+  },
+  "groups": {
+    "groups": [
+      {
+        "query": "tag:#Lore/General",
+        "color": "#ce5a5a"
+      },
+      {
+        "query": "tag:#Lore/History",
+        "color": "#ccb12e"
+      },
+      {
+        "query": "tag:#Demiplane",
+        "color": "#abff66"
+      },
+      {
+        "query": "tag:#Plane",
+        "color": "#0cbb29"
+      },
+      {
+        "query": "tag:#Region",
+        "color": "#56f5c6"
+      },
+      {
+        "query": "tag:#Location",
+        "color": "#2ec0ff"
+      },
+      {
+        "query": "tag:#City",
+        "color": "#481fdb"
+      },
+      {
+        "query": "tag:#Organisation",
+        "color": "#b75dd0"
+      },
+      {
+        "query": "tag:#Item",
+        "color": "#934fa1"
+      },
+      {
+        "query": "tag:#NPC",
+        "color": "#d1ff99"
+      },
+      {
+        "query": "tag:#Player",
+        "color": "#2eee2b"
+      }
+    ]
+  },
+  "display": {
+    "nodeSize": 6,
+    "linkThickness": 4,
+    "particleSize": 11,
+    "particleCount": 2
+  }
+}

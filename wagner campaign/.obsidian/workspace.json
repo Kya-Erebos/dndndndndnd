@@ -1,0 +1,206 @@
+{
+  "main": {
+    "id": "49878dc88d497a94",
+    "type": "split",
+    "children": [
+      {
+        "id": "fa92a6eba3079d96",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ba71653271c344ca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Overview.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Overview"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5fba911594924abc",
+    "type": "split",
+    "children": [
+      {
+        "id": "ea02e84158b25c1a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d16c6c86c6d53469",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "3e7eeba27fe93aa1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "98848ab33b6d2d32",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "1d00551b41b6b841",
+    "type": "split",
+    "children": [
+      {
+        "id": "0d1da68e2a7dd1d3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d797255fa08977af",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Vex fynx.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Vex fynx"
+            }
+          },
+          {
+            "id": "7f1e0d0b87bd873a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Vex fynx.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Vex fynx"
+            }
+          },
+          {
+            "id": "fa8e632f16f63c22",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "fc972a23523333c7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Vex fynx.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Vex fynx"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 232.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "ba71653271c344ca",
+  "lastOpenFiles": [
+    "xeij.md",
+    "The Code.md",
+    "Vex fynx.md",
+    "Knight.md",
+    "Overview.md",
+    "Tags",
+    "encounter of the Great Dreams Casino.md",
+    "Time breaks.md",
+    "Mechanus.md",
+    "Untitled.md",
+    "Aevum.md",
+    "Material plane.md",
+    "Great Dreams Casino.md",
+    "The Drift.md",
+    "Nothing.md",
+    "__ Cryptic notes/CALL.md",
+    "img/AbyssalEdge.webp",
+    "img/Great Dreams_67x43.png",
+    "img",
+    "__ Cryptic notes/Time again.md",
+    "__ Cryptic notes/That Good Night.md",
+    "Symbolism.md",
+    "Break 0.md",
+    "_0 References/Game/Act 1/__ Overview.md",
+    "__ Cryptic notes/Beginnings.md",
+    "General Worldbuilding/Bloodbath",
+    "General Worldbuilding/The Drift",
+    "General Worldbuilding/Limbo",
+    "General Worldbuilding/Hades",
+    "General Worldbuilding/Acheron",
+    "General Worldbuilding/Underdark",
+    "General Worldbuilding/Feywild",
+    "General Worldbuilding/Material Plane",
+    "Welcome.md"
+  ]
+}

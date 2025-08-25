@@ -1,0 +1,33 @@
+---
+tags:
+  - "#Lore/History"
+---
+- [[The 0th Age, Daybreak]]
+	- Dawn of time
+	- [[__Worldbuilding/_1 Planes/Inner planes/The Drift|the Drift]] and [[Theology - characters|The Drift]]
+	- Asphodael's creation, and imprisonment
+	- The inner planes' creation
+- [[The 1st Age, Awakening]]
+	- advancement of the inner planes
+	- creation of the outer planes
+	- planting seeds of hatred in the gods
+	- starting construction of the [[Great Central Spire]]
+	- philosophical schools of thought in [[The Underdark]]. 
+- [[The 2nd Age, Conjuration]]
+	- Asphodael finding a way of making contact to those outside Plakos
+	- creation of the [[Book of Forgotten Secrets]]
+	- tensions rising in the Feywild
+	- establishment of [[The Underdark]]'s cities
+	- the [[Church of the Blind Eye]]'s seeding ([[Faegus Jekyl]])
+- [[The 3rd Age, War]]
+	- death of Tau
+		- the fall of limbo
+		- war breaks out across all planes
+		- redistributing responsibilities
+		- the Anguish of Kaff
+		- [[The Shattered Skull of Tau]]
+	- formation of the [[Church of the Blind Eye]]
+	- Construction of the Worlds gate in the material plane
+- [[The 4th Age, Advance]]
+	- end of age is campaign start
+- [[The 5th Age, the New Age]]

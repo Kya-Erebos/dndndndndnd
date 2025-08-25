@@ -1,0 +1,7 @@
+- what was your favourite part of the session?
+- what was your least favourite part of the session?
+- how did the combat feel? too fast/slow? too hard/easy?
+- how did the roleplay feel? do you feel like there was enough time allotted to it?
+- how does the campaign feel in general? is it a good pace so far? do you have any concerns?
+- what are your hopes for the next session?
+- anything else you would like to talk about or mention?

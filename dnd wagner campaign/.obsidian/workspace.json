@@ -1,0 +1,372 @@
+{
+  "main": {
+    "id": "c937d7c01147fc83",
+    "type": "split",
+    "children": [
+      {
+        "id": "10ccd8563bacdc60",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "99026827a1a1aa3c",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "b92db762e5be144e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "__Worldbuilding/_3 NPCs/Mortals/first encounter/Vex fynx.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Vex fynx"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0fbfe2c4553f933a",
+    "type": "split",
+    "children": [
+      {
+        "id": "c50057d6b5373553",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "12f5ab74623f378d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": true
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "e1d55be13deeb56f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "calendar",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "5d2f500818bcff27",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "e3cd445e50cd11c9",
+    "type": "split",
+    "children": [
+      {
+        "id": "2282fff213ec80dc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2a84bef214b8bb82",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "__Worldbuilding/_2 Locations/the Material Plane/The Northern Wastes/the Northern Church.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for the Northern Church"
+            }
+          },
+          {
+            "id": "3f7d68498670ef7c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "__ Plot/_ Time Breaks/_ Time Breaks.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from _ Time Breaks"
+            }
+          },
+          {
+            "id": "f3dd07fd421b82d8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "alphabetical",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "a8d7fd132f87c0ec",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "__ Plot/_ Time Breaks/_ Time Breaks.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of _ Time Breaks"
+            }
+          },
+          {
+            "id": "3948dc56f7b75978",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "0bb9addbeea52675",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "118a9aba2480b4c2",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "54f1eab960abd685",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "1c357d33e4216f4d",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "045600659e4a4716",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "7577a4f38b9dbbd9",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "ece00260d6f920f6",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "1224dffa60dc19f3",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "309a336ed90af502",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "479dfae8dfc7ddc7",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "594aaddaf5b024df",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "65b8da341229f585",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "b6654ea961f475b9",
+            "type": "leaf",
+            "state": {
+              "type": "graph-analysis",
+              "state": {},
+              "icon": "GA-ICON",
+              "title": "Graph Analysis"
+            }
+          }
+        ],
+        "currentTab": 17
+      }
+    ],
+    "direction": "horizontal",
+    "width": 288.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "graph:Open graph view": false,
+      "switcher:Open quick switcher": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-importer:Open Importer": false,
+      "3d-graph:3D Graph": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false,
+      "obsidian-kanban:Create new board": false
+    }
+  },
+  "active": "b6654ea961f475b9",
+  "lastOpenFiles": [
+    "_0 Players/Sloth.md",
+    "_0 Players/Mhurren.md",
+    "_0 Players/Ferox Kilsolok.md",
+    "__Worldbuilding/_3 NPCs/Mortals/Faina Clockwork.md",
+    "__Worldbuilding/_3 NPCs/Mortals/Fix.md",
+    "__Worldbuilding/_3 NPCs/Mortals/first encounter/Marçial Ximon.md",
+    "__Worldbuilding/_3 NPCs/Mortals/first encounter/Kinteppa.md",
+    "__ Plot/Act 1/encounter of the Great Dreams Casino.md",
+    "__Worldbuilding/_3 NPCs/Mortals/first encounter/Benjamin Knightly.md",
+    "__Worldbuilding/_3 NPCs/Mortals/first encounter/Vex fynx.md",
+    "__Worldbuilding/_1 Planes/Inner planes/The Feywild.md",
+    "__Worldbuilding/_1 Planes/Inner planes/The Drift.md",
+    "__Worldbuilding/_1 Planes/Inner planes/The Material Plane.md",
+    "__Worldbuilding/_3 NPCs/immortals/Rras.md",
+    "__ Plot/Act 1.md",
+    "__Worldbuilding/_0 History/The 1st Age, Awakening.md",
+    "__Worldbuilding/_0 General Lore Docs/the Calendar(s).md",
+    "__ Plot/Act 1/encounter of the Great Dreams Casino 1.md",
+    "__ Plot/_ Time Breaks/Time Break 0.md",
+    "__ Plot/_ Time Breaks/_ Time Breaks.md",
+    "__ NOTES FOR FUNNY FUN FUTURE EVENTS/poems.md",
+    "__Worldbuilding/_0 History/The 0th Age, Daybreak.md",
+    "__Worldbuilding/_0 History/The 2nd Age, Conjuration.md",
+    "__Worldbuilding/_0 History/The Ages (Table of contents).md",
+    "__Worldbuilding/_0 History/The 3rd Age, War.md",
+    "__Worldbuilding/_2 Locations/the Material Plane/The Northern Wastes/the Northern Church.md",
+    "__Worldbuilding/_2 Locations/the Material Plane/The Northern Wastes",
+    "__ images/Characters/Jack lore.png",
+    "__Worldbuilding/_2 Locations/the Material Plane/Witch's Lands",
+    "__ Plot/_ Time Breaks",
+    "__ images/Characters/Ivan.jpg",
+    "__ images/Characters/Pin/Pin-Disguise.png",
+    "__ images/Characters/Pin",
+    "__ images/Characters/Kinteppa.png",
+    "__ images/Characters/Elyrseas.png",
+    "__ images/Characters/Benjamin Knightly.png",
+    "__ images/maps/battlemaps/Workshop.webp",
+    "__ images/maps/battlemaps/ShipSteampunk.webp",
+    "__ images/maps/battlemaps/LightTower.webp",
+    "__ images/maps/battlemaps/AbyssalEdge.webp",
+    "__ images/Characters/Equinox",
+    "__ images/maps/battlemaps",
+    "__Worldbuilding/_3 NPCs/Mortals/first encounter",
+    "__Worldbuilding/_2 Locations/the Material Plane/Avaria/Starcrest",
+    "__ Plot/Act 1",
+    "__Worldbuilding/_4 Items/generic - magical",
+    "Untitled.canvas"
+  ]
+}

@@ -1,0 +1,223 @@
+{
+  "mapMarkers": [
+    {
+      "id": "MatPlane_Map",
+      "locked": true,
+      "lastAccessed": 1735083331826,
+      "markers": [
+        {
+          "id": "ID_78897a19c8fb",
+          "type": "default",
+          "loc": [
+            61.4375,
+            120.1875
+          ],
+          "link": "Starcrest",
+          "layer": "%5B%5Bmaterial%20plane%2C%20regions.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "capital of Avaria",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_7aa869aaa86a",
+          "type": "default",
+          "loc": [
+            55.3671875,
+            63.8046875
+          ],
+          "link": "Asphodael",
+          "layer": "%5B%5Bmaterial%20plane%2C%20regions.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_280889c92b68",
+          "type": "default",
+          "loc": [
+            22.4609375,
+            169.8671875
+          ],
+          "link": "the Rot Tear",
+          "layer": "%5B%5Bmaterial%20plane%2C%20regions.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_1bfad8f91b08",
+          "type": "default",
+          "loc": [
+            48.609375,
+            84.75494008526329
+          ],
+          "link": "the Halls of the Forgotten",
+          "layer": "%5B%5Bmaterial%20plane%2C%20regions.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_0bb8db69383b",
+          "type": "default",
+          "loc": [
+            45.18917600487431,
+            108.61051979200664
+          ],
+          "link": "the Fallen Bastion",
+          "layer": "%5B%5Bmaterial%20plane%2C%20regions.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "the Fallen Bastion",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_cb299a7b68fb",
+          "type": "default",
+          "loc": [
+            104.6643843747564,
+            83.29821288240387
+          ],
+          "link": "the Cottage in the Woods",
+          "layer": "%5B%5Bmaterial%20plane%2C%20regions.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "the Cottage in the Woods",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_49a90938f8c9",
+          "type": "default",
+          "loc": [
+            152.3514584236709,
+            43.76481910409156
+          ],
+          "link": "the Northern Church",
+          "layer": "%5B%5Bmaterial%20plane%2C%20regions.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "__ map.md"
+      ]
+    }
+  ],
+  "defaultMarker": {
+    "type": "default",
+    "iconName": "map-marker",
+    "color": "#dddddd",
+    "transform": {
+      "size": 6,
+      "x": 0,
+      "y": -2
+    }
+  },
+  "markerIcons": [],
+  "color": "#dddddd",
+  "lat": 39.983334,
+  "long": -82.98333,
+  "notePreview": false,
+  "layerMarkers": true,
+  "previousVersion": "6.0.5",
+  "version": {
+    "major": 6,
+    "minor": 0,
+    "patch": 5
+  },
+  "warnedAboutMapMarker": false,
+  "copyOnClick": false,
+  "displayMarkerTooltips": "hover",
+  "displayOverlayTooltips": true,
+  "configDirectory": null,
+  "mapViewEnabled": true,
+  "mapViewParameters": {
+    "darkMode": false,
+    "defaultZoom": 2,
+    "distanceMultiplier": 1,
+    "drawColor": "#3388ff",
+    "geojson": [],
+    "geojsonColor": "#3388ff",
+    "gpx": [],
+    "gpxColor": "#3388ff",
+    "height": "900px",
+    "image": "[[material plane, regions.jpg]]",
+    "imageOverlay": [],
+    "isMapView": false,
+    "layers": [
+      "[[material plane, regions.jpg]]"
+    ],
+    "linksFrom": [],
+    "linksTo": [],
+    "marker": [],
+    "commandMarker": [],
+    "markerFile": [],
+    "markerFolder": [],
+    "markerTag": [],
+    "maxZoom": 3,
+    "minZoom": 1,
+    "osmLayer": true,
+    "overlay": [],
+    "overlayColor": "blue",
+    "scale": 0.155555555,
+    "showAllMarkers": false,
+    "tileServer": [],
+    "verbose": false,
+    "zoomDelta": 0.5,
+    "zoomFeatures": false,
+    "id": "MatPlane_Map",
+    "lock": true,
+    "recenter": true,
+    "noScrollZoom": true,
+    "bounds": [
+      [
+        0,
+        0
+      ],
+      [
+        195.599,
+        391.198
+      ]
+    ],
+    "width": "85%",
+    "lat": 97.7995,
+    "long": 195.599,
+    "unit": "miles",
+    "filterTag": []
+  },
+  "enableDraw": true,
+  "defaultUnitType": "imperial",
+  "defaultTile": "https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}.png",
+  "defaultTileDark": "https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}.png",
+  "defaultAttribution": "&copy; <a href=\"https://www.openstreetmap.org/copyright\">OpenStreetMap</a> contributors &copy; <a href=\"https://carto.com/attributions\">CARTO</a>",
+  "defaultTileSubdomains": "a,b,c,d"
+}

@@ -1,0 +1,225 @@
+{
+  "nodePositions": [
+    {
+      "id": "Geography & Maps.md",
+      "x": -90.90206146240234,
+      "y": -297.85992431640625
+    },
+    {
+      "id": "History/Awakening, The 1st Age.md",
+      "x": 542.6461791992188,
+      "y": -156.53944396972656
+    },
+    {
+      "id": "History/Daybreak, The 0th Age.md",
+      "x": 453.63604736328125,
+      "y": 204.4630126953125
+    },
+    {
+      "id": "History/The Ages (Table of contents).md",
+      "x": 363.5749206542969,
+      "y": 60.68555450439453
+    },
+    {
+      "id": "War, The 3rd Age",
+      "x": 269.7782287597656,
+      "y": -341.4310607910156
+    },
+    {
+      "id": "Items/Book of Forgotten Secrets.md",
+      "x": 113.1590576171875,
+      "y": 333.0943603515625
+    },
+    {
+      "id": "Organisations/Church of the Blind Eye.md",
+      "x": 634.8931274414062,
+      "y": -205.33499145507812
+    },
+    {
+      "id": "Planes/Demiplanes/Plakos.md",
+      "x": 461.84942626953125,
+      "y": 712.2318115234375
+    },
+    {
+      "id": "Planes/Inner planes/The Drift.md",
+      "x": 365.266845703125,
+      "y": 269.666259765625
+    },
+    {
+      "id": "Planes/Inner planes/The Feywild.md",
+      "x": 22.242843627929688,
+      "y": -421.7674865722656
+    },
+    {
+      "id": "Planes/Inner planes/The Material Plane.md",
+      "x": 76.93753814697266,
+      "y": 470.7871398925781
+    },
+    {
+      "id": "Planes/Inner planes/The Underdark.md",
+      "x": -238.63992309570312,
+      "y": -7.388131141662598
+    },
+    {
+      "id": "Planes/Outer planes/Acheron.md",
+      "x": -29.788589477539062,
+      "y": 224.3212432861328
+    },
+    {
+      "id": "Planes/Outer planes/Bloodbath.md",
+      "x": -130.06280517578125,
+      "y": 10.96010971069336
+    },
+    {
+      "id": "Planes/Outer planes/Ether.md",
+      "x": -112.18319702148438,
+      "y": 129.0845184326172
+    },
+    {
+      "id": "Planes/Outer planes/Hades.md",
+      "x": -157.7789306640625,
+      "y": -215.9781494140625
+    },
+    {
+      "id": "Planes/Outer planes/Limbo.md",
+      "x": -170.7537078857422,
+      "y": -102.9944839477539
+    },
+    {
+      "id": "Planes/Outer planes/Mechanicus.md",
+      "x": 131.96958923339844,
+      "y": -468.1143798828125
+    },
+    {
+      "id": "The Realms.md",
+      "x": 226.99046325683594,
+      "y": -70.74040222167969
+    },
+    {
+      "id": "Theology.md",
+      "x": 686.9451904296875,
+      "y": 199.61962890625
+    },
+    {
+      "id": "Regions/Material Plane/Avaria.md",
+      "x": 421.9342346191406,
+      "y": 897.9703979492188
+    },
+    {
+      "id": "Regions/Material Plane/The Hordes.md",
+      "x": -254.1273193359375,
+      "y": 199.68331909179688
+    },
+    {
+      "id": "Regions/Material Plane/World's gate.md",
+      "x": 66.26446533203125,
+      "y": 98.41796875
+    },
+    {
+      "id": "Regions/Material Plane/Witch's lands.md",
+      "x": -308.0519714355469,
+      "y": 304.4716491699219
+    },
+    {
+      "id": "Regions/Material Plane/Raider's Barrens.md",
+      "x": 299.225341796875,
+      "y": 960.1425170898438
+    },
+    {
+      "id": "Regions/Material Plane/the Wild Lands.md",
+      "x": 132.95928955078125,
+      "y": 20.29345703125
+    },
+    {
+      "id": "Regions/Material Plane/the Northern Wastes.md",
+      "x": 400.51092529296875,
+      "y": 991.4194946289062
+    },
+    {
+      "id": "Regions/Material Plane/the Oasis.md",
+      "x": 503.3810729980469,
+      "y": 845.2279663085938
+    },
+    {
+      "id": "Locations/the Underdark/the Shores of Solace.md",
+      "x": -95.3626937866211,
+      "y": -404.46160888671875
+    },
+    {
+      "id": "Locations/the Underdark/Cities/Solace.md",
+      "x": -515.9019775390625,
+      "y": -240.59555053710938
+    },
+    {
+      "id": "Items/The Shattered Skull of Tau.md",
+      "x": 112.34854125976562,
+      "y": -250.99656677246094
+    },
+    {
+      "id": "Items/Drift water.md",
+      "x": 659.7050170898438,
+      "y": 1129.1268310546875
+    },
+    {
+      "id": "Items/Stellarium.md",
+      "x": -470.7140197753906,
+      "y": -20.508024215698242
+    },
+    {
+      "id": "History/Conjuration, The 2nd Age.md",
+      "x": 828.8043701368355,
+      "y": 1673.1662883418264
+    },
+    {
+      "id": "NPCs/Faegus Jekyl.md",
+      "x": 543.1771850585938,
+      "y": 1126.15478515625
+    },
+    {
+      "id": "NPCs/Gods + Anima/Affix.md",
+      "x": 1037.052978515625,
+      "y": 206.45909118652344
+    },
+    {
+      "id": "NPCs/Gods + Anima/Hex.md",
+      "x": 815.70703125,
+      "y": -189.37437438964844
+    },
+    {
+      "id": "NPCs/Gods + Anima/Kaff.md",
+      "x": 530.3574829101562,
+      "y": 496.732421875
+    },
+    {
+      "id": "NPCs/Gods + Anima/Tau.md",
+      "x": 550.2371215820312,
+      "y": -265.0460205078125
+    },
+    {
+      "id": "NPCs/Gods + Anima/Vee.md",
+      "x": 721.4788208007812,
+      "y": -246.77749633789062
+    },
+    {
+      "id": "NPCs/Gods + Anima/Phi.md",
+      "x": 645.2964477539062,
+      "y": 791.6320190429688
+    },
+    {
+      "id": "NPCs/Gods + Anima/Athgaar.md",
+      "x": 838.4949951171875,
+      "y": 485.68963623046875
+    },
+    {
+      "id": "NPCs/Gods + Anima/Asphodael.md",
+      "x": 744.7918090820312,
+      "y": 835.8840942382812
+    },
+    {
+      "id": "NPCs/Gods + Anima/the Drift.md",
+      "x": 346.7325439453125,
+      "y": 377.849853515625
+    }
+  ],
+  "automaticallyRestoreNodePositions": false
+}

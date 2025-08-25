@@ -1,0 +1,13 @@
+---
+tags:
+  - "#Lore/History"
+---
+In the beginning, there was only [[The Realms|the Drift]]. An endless shifting ocean full of raw, untapped power. From this power came all of the world. At first, just patterns of magical energy, looping around and around, as a self-sustaining action. Then, more and more magical energy built up, until a mind came into being. [[Theology - characters|The mind of the Drift itself]]. 
+
+As the only being in all of existence, the Drift understandably got lonely. In order to remedy this, it set its sights on bringing another being into the world. It started with moving the waves around, testing if it could exert its will over the world around it. Then, it tried to remove some water from the ocean, and then, and then, and then. Eventually, it had learned how to transmute matter into other forms and how to inhabit a physical form. All that was left was to spark a new life into the form. The Drift concentrated magical energy into the form, again and again, and eventually it sprung to life. 
+
+This was [[Asphodael]], the first and forgotten. Asphodael had developed differently than the Drift, and rather than having a strong will over the world around them, their perception of it was greater than even the Drift’s. They saw everything, from the infinite amount of time before the Drift awoke, to the entire process of their creation. Together, they built the first realm, though this one is later known as more of a demi-plane. They called it [[The Realms|Plakos]], and it was home to Asphodael. 
+
+After creating their first plane, they created three more, known as the [[The Realms|Inner Planes]], Starting with the [[The Realms|material plane]]. the goal was to make many, far less powerful beings to inhabit reality. Here, the two had a *slight* disagreement about how to oversee this reals and it’s people, the Drift wanting them to have their own agency in how to use the realm, while Asphodael wanted them to be subservient to them. Asphodael went along with the Drift’s plan, up until the Drift started interacting with the living beings on the plane (which at this point had no written language nor any way of reliably recording events), claiming that if they truly wished for them to have their own agency that they could not be of any influence. This conflict escalated, and escalated, ultimately resulting in Asphodael being imprisoned in Plakos. The Drift sealed the plane off from the rest of the world and placed a veil over it to conceal it from the world, and the world from Asphodael. 
+
+Over the years spent with Asphodael, the Drift had learnt far more refined control over it’s power, and so it brought new gods into existence, splitting their power evenly and remaining hidden within itself.

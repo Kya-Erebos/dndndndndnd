@@ -1,0 +1,4 @@
+---
+tags:
+  - NPC/Deceased/Active
+---
